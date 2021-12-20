@@ -27,3 +27,7 @@ SpeechRecognition==3.8.1
 tzdata==2021.5
 tzlocal==4.1
 urllib3==1.26.7
+
+numpy~=1.21.4
+matplotlib~=3.5.1
+scipy~=1.7.3
